@@ -11,7 +11,13 @@ html {
 
 body {
     display: flex;
+<<<<<<< HEAD
     margin: 20;
+||||||| 650a8de
+    margin: 0;
+=======
+    margin: 10;
+>>>>>>> 9937e2c9060d1e81369ee4263f1417b5373da958
     height: 100%;
 }
 
@@ -47,7 +53,13 @@ body {
 h2 {
     margin: 0;
     transform: rotate(-45deg);
+<<<<<<< HEAD
     transition: transform 5s;
+||||||| 650a8de
+    transition: transform 0.5s;
+=======
+    transition: transform 1s;
+>>>>>>> 9937e2c9060d1e81369ee4263f1417b5373da958
     text-shadow: 0 0 5px #01579b;
 }
 
