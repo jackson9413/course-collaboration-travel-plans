@@ -11,7 +11,7 @@ html {
 
 body {
     display: flex;
-    margin: 0;
+    margin: 20;
     height: 100%;
 }
 
@@ -47,7 +47,7 @@ body {
 h2 {
     margin: 0;
     transform: rotate(-45deg);
-    transition: transform 0.5s;
+    transition: transform 5s;
     text-shadow: 0 0 5px #01579b;
 }
 
